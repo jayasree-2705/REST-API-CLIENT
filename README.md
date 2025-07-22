@@ -81,3 +81,7 @@ The Weather API Client can be utilized in various practical scenarios and serves
 - Java JDK 8 or higher installed on your machine.
 - Internet connection to fetch data from the API.
 
+## Output :
+
+<img width="1907" height="1012" alt="Image" src="https://github.com/user-attachments/assets/77843e5f-4113-4bc1-b552-a19d93afd79e" />
+
